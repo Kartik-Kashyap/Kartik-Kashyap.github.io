@@ -1,3 +1,11 @@
-theme: minima
+remote_theme: jekyll/minima
+
+minima:
+  skin: auto          # or "dark" for always dark, or "classic" for light
+
+plugins:
+  - jekyll-remote-theme
+
+
 title: AMY (2015) -  Short Film - Analysis
 description: A Rithin Parker Joseph's film's analysis — By Kartik Kashyap
