@@ -7,7 +7,7 @@ His films don’t feel like side projects or portfolio fillers—they feel like 
 That integrity—being a criminologist who studies deception, memory, and human behaviour, and simultaneously a filmmaker who interrogates the same themes emotionally—is something I deeply admire and consciously aspire to.
 
 
-Wanna check out more of my analysis work? Below are the link for works I did for a famous Indian film and music breakdown channel ***"[In Other Words](https://www.youtube.com/@Inotherwordsyt)"***:
+Wanna check out more of my analysis work? Below are the link for works I did for a famous Indian film and music breakdown channel ***"[In Other Words](https://www.youtube.com/@Inotherwordsyt)"*** :
 
 - My research document: [Rang De Basanti — Complete BGM & Soundtrack Analysis](https://docs.google.com/document/d/1Syk1a-8gzShUDDz8BEkDaI7bpQLVpXTJ8-26EomOElY/edit?usp=sharing)
   -  Resulted in this video on his channel:
@@ -155,7 +155,7 @@ This aligns with **anti-spectacle violence theory** (Susan Sontag-esque restrain
 
   * Pants slipping / unadjusted clothing → shock realism
 
-| Slipped Pants (opposed to the farewell party dress-up) |
+| Slipped Pants (opposed to the initial jolly farewell party dress-up and mood) |
 |:---:|
 | ![pants](ss-dress.png) |
 
