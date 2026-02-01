@@ -4,10 +4,9 @@ What drew me to Rithin Joseph’s work wasn’t just his academic rigor in behav
 
 His films don’t feel like side projects or portfolio fillers—they feel like acts of necessity. The kind of cinema made not for algorithms, not for festivals, not for money, but because the story *had to exist*.
 
-That integrity—being a criminologist who studies deception, memory, and human behaviour, and simultaneously a filmmaker who interrogates the same themes emotionally—is something I deeply admire and consciously aspire to.
+That integrity—being a criminologist who studies deception, memory, and human behaviour, and simultaneously a filmmaker who interrogates the same themes emotionally—is something I deeply admire and consciously aspire to, which brings me to analyse my favorite film of his—AMY.
 
-
-Wanna check out more of my analysis work? Below are the link for works I did for a famous Indian film and music breakdown channel ***"[In Other Words](https://www.youtube.com/@Inotherwordsyt)"*** :
+If you wanna check out more of my analysis work before (or after) proceeding, below are the links for works I did for a famous Indian film and music breakdown channel ***"[In Other Words](https://www.youtube.com/@Inotherwordsyt)"*** :
 
 - My research document: [Rang De Basanti — Complete BGM & Soundtrack Analysis](https://docs.google.com/document/d/1Syk1a-8gzShUDDz8BEkDaI7bpQLVpXTJ8-26EomOElY/edit?usp=sharing)
   -  Resulted in this video on his channel:
@@ -15,7 +14,7 @@ Wanna check out more of my analysis work? Below are the link for works I did for
 - My analysis: [BADLAPUR OPENING SCENE ANALYSIS](https://docs.google.com/document/d/1pRNzr7agkg4LeQGv0fxeM1-s8rff4SdIgwPf1FYY_S8/edit?usp=sharing) 
   - Featured in this short on his channel [Breakdown of Badlapur’s Iconic Opening](https://youtube.com/shorts/SujYjfQiWbY?si=N3LCJrgRrFfEItD8)
 
-> Also, I am currently building a platform called "Cinema Apparatus" for creating a Zettelkasten style knowledge-base of films, screenplays, their analysis, stories, interviews, visual essays, etc. with backlinks, graph view, .md and .fountain support. It's still in development phase and is buggy, but you can check out its deployment here: [Netlify link](https://cinema-apparatus.netlify.app/)
+> Also, I am currently building a platform called "Cinema Apparatus" for creating a Zettelkasten style knowledge-base of films, screenplays, their analysis, stories, interviews, visual essays, etc. with backlinks, graph view, .md and .fountain support. It's still in development phase and is buggy, but you can check out its deployment here: [https://cinema-apparatus.netlify.app/](https://cinema-apparatus.netlify.app/)
 
 
 ---
